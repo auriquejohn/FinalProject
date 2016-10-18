@@ -1,0 +1,17 @@
+{
+  "surveys": [
+    {
+      "artist": "q",
+      "title": "w",
+      "album": "e",
+      "gender": "male",
+      "suggestion": "",
+      "rate": "★★★★",
+      "movies": [
+        "Rock",
+        "Hip-Hop"
+      ],
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url('a.jpg');
+
+}
+
+.jumbotron {
+  background-image: url('bg.jpg');
+
+  background-size: 100%;
+  opacity: 0.9;
+  margin-top: 20px;
+  color: white;
+
+}
+
+.playlist {
+	color: #BDBDBD;
+
+}
